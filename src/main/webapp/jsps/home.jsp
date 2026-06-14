@@ -74,12 +74,12 @@
 
     <!-- Contact Info -->
     <div class="info-card text-center">
-        <img src="images/kkfunda.jpg" alt="KK FUNDA Logo" width="120" class="mb-3 rounded-circle shadow">
+        <img src="images/kkfunda.jpg" alt="RK Solutions Logo" width="120" class="mb-3 rounded-circle shadow">
         <h4>KK FUNDA</h4>
         <p><b>Address:</b> Martha Halli, Bangalore</p>
-        <p><b>Phone:</b> +91-9676831734</p>
-        <p><b>Email:</b> <a href="mailto:kkeducationblr@gmail.com">kkeducationblr@gmail.com</a></p>
-        <a href="mailto:kkeducation@gmail.com" class="btn btn-primary mt-2">📧 Mail to KK FUNDA</a>
+        <p><b>Phone:</b> +91-7989166525</p>
+        <p><b>Email:</b> <a href="mailto:rkeducationblr@gmail.com">rkeducationblr@gmail.com</a></p>
+        <a href="mailto:rkeducation@gmail.com" class="btn btn-primary mt-2">📧 Mail to RK solutions</a>
     </div>
 
     <!-- Service Links -->
@@ -91,8 +91,8 @@
 </div>
 
 <footer>
-    <p>© 2024 KK FUNDA Training & Development Center</p>
-    <p><small>Powered by <a href="https://google.com/">KK FUNDA</a></small></p>
+    <p>© 2024 RK Solutions Training & Development Center</p>
+    <p><small>Powered by <a href="https://google.com/">RK Solutions</a></small></p>
 </footer>
 
 <!-- Bootstrap JS -->
