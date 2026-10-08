@@ -75,7 +75,7 @@
     <!-- Contact Info -->
     <div class="info-card text-center">
         <img src="images/kkfunda.jpg" alt="RK Solutions Logo" width="120" class="mb-3 rounded-circle shadow">
-        <h4>KK FUNDA</h4>
+        <h4>RK Solutions</h4>
         <p><b>Address:</b> Martha Halli, Bangalore</p>
         <p><b>Phone:</b> +91-7989166525</p>
         <p><b>Email:</b> <a href="mailto:rkeducationblr@gmail.com">rkeducationblr@gmail.com</a></p>
